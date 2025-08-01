@@ -1,0 +1,9 @@
+# Entrada dos dados
+distancia = float(input("Distância (em km): "))
+velocidade = float(input("Velocidade média (em km/h): "))
+
+# Cálculo do tempo
+tempo = distancia / velocidade
+
+# Saída do resultado
+print(f"Tempo estimado de viagem: {tempo:.1f} horas")
