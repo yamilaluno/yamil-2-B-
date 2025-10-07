@@ -6,3 +6,4 @@ if cor in cores:
     print("Sim, a cor esta na lista")
 else:
     print("A cor não esta na lista")
+
